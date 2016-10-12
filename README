@@ -1,0 +1,23 @@
+/*********************************************
+ * CMPUT 201 ASSIGNMENT 3                    *
+ * NAME: JANES, JOSHUA                       *
+ * STUDENT ID: 1297283                       *
+ * CCID: jjanes                              *
+ * LAB: D04                                  *
+ * TA; GAO, CHAO                             *
+ * INSTRUCTOR: BURCH, NEIL                   *
+ * DESCRIPTION: lander recreate the 1979     *
+ * Atari arcade game Lunar Lander.           *
+ ********************************************/
+
+IMPROVMENTS/ BUG FIXES:
+-Draws a more detailed ship similar to the one found in the original 1979 
+ Lunar Lander.
+-Ship is drawn in color.
+-Instead of getting stuck at the edge of the screen when you fly into the edge,
+ the program prints a message notifying the user that the lander was lost.
+-Ship breaks into pieces when crash occurs.
+
+SOURCES:
+-Slides in class and example code given in the project files
+-Line intersection code from: http://alienryderflex.com/intersect/
